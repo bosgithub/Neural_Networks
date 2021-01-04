@@ -2,4 +2,6 @@
 
 ## Shallow NN:
 
+input feature: x
+
 ## Deep NN:
